@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b09ed2f-cd3b-4b20-80dd-f47e74e9ec27" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0607f785dfa3c3861b3239f6723eb276d8056461" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddd00bae5fe5236c7bdc01471bac6e6a6fa18739" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/mock/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/public/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ffc6352b-d9f6-441b-a334-132288a4752e.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fGin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__fGin_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/casbinConfig.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/db.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/FootBall.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/Login.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/System.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/test.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main2.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/FootBall.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/Product.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/SysModel.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ov/System.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ov/football.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/router/router.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.babelrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.eslintrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.ga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.prettierignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.prettierrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.roadhogrc.mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.stylelintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.webpackrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/CODE_OF_CONDUCT.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/README.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/mock/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/mock/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/mock/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/mock/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/mock/rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/assets/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/common/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/common/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/ActiveChart/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/ActiveChart/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/Authorized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/AuthorizedRoute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/CheckPermissions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/CheckPermissions.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/PromiseRender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/Secured.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/demo/AuthorizedArray.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/demo/AuthorizedFunction.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/demo/secured.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Authorized/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/AvatarItem.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/demo/simple.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/AvatarList/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Bar/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Bar/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/ChartCard/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/ChartCard/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/ChartCard/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Field/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Field/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Field/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Gauge/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Gauge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniArea/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniArea/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniBar/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniBar/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniProgress/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniProgress/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/MiniProgress/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Pie/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Pie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Pie/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Radar/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Radar/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/Radar/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/TagCloud/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/TagCloud/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/TagCloud/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/TimelineChart/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/TimelineChart/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/TimelineChart/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/WaterWave/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/WaterWave/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/WaterWave/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/autoHeight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/bar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/chart-card.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/gauge.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/mini-area.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/mini-bar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/mini-pie.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/mini-progress.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/mix.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/pie.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/radar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/tag-cloud.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/timeline-chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/demo/waterwave.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/g2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Charts/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/CountDown/demo/simple.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/CountDown/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/CountDown/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/CountDown/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/CountDown/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/Description.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/Description.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/DescriptionList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/demo/vertical.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/DescriptionList/responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/EditableItem/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/EditableItem/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/EditableLinkGroup/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/EditableLinkGroup/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/demo/line.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/demo/number.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Ellipsis/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/demo/403.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/demo/404.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/demo/500.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Exception/typeConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/FooterToolbar/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/FooterToolbar/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/FooterToolbar/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/FooterToolbar/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/FooterToolbar/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/FooterToolbar/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalFooter/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalFooter/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalFooter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalFooter/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalFooter/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalHeader/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/GlobalHeader/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/HeaderSearch/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/HeaderSearch/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/HeaderSearch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/HeaderSearch/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/HeaderSearch/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/LoginItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/LoginSubmit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/LoginTab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Login/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/NoticeIconTab.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/NoticeList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/NoticeList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/demo/popover.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NoticeIcon/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NumberInfo/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NumberInfo/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NumberInfo/index.en-US.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NumberInfo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NumberInfo/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/NumberInfo/index.zh-CN.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/demo/image.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/demo/simple.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/demo/standard.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/demo/structure.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/PageHeader/index.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/demo/classic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/demo/error.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/demo/structure.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Result/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/SiderMenu/SiderMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/SiderMenu/SilderMenu.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/SiderMenu/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/SiderMenu/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/StandardFormRow/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/StandardFormRow/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/StandardTable/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/StandardTable/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/TagSelectOption.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/demo/expandable.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/demo/simple.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/TagSelect/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Trend/demo/basic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Trend/demo/reverse.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Trend/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Trend/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Trend/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/Trend/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/_utils/pathTools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/components/_utils/pathTools.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/cusComponents/FormModel/CreateForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/e2e/home.e2e.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/e2e/login.e2e.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/layouts/BasicLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/layouts/BlankLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/layouts/PageHeaderLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/layouts/PageHeaderLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/layouts/UserLayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/layouts/UserLayout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/SysModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/activities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/footBall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/project.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/rule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/models/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/rollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Dashboard/Analysis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Dashboard/Analysis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Dashboard/Monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Dashboard/Monitor.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Dashboard/Workplace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Dashboard/Workplace.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Exception/403.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Exception/404.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Exception/500.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Exception/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Exception/triggerException.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/AdvancedForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/BasicForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/StepForm/Step1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/StepForm/Step2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/StepForm/Step3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/StepForm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/StepForm/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/TableForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Forms/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Guessing/FootBall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/Applications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/Applications.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/Articles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/Articles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/BasicList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/BasicList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/CardList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/CardList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/Projects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/Projects.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/TableList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/List/TableList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Profile/AdvancedProfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Profile/AdvancedProfile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Profile/BasicProfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Profile/BasicProfile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Result/Error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Result/Success.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/Result/Success.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/System/SysRole.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/System/SysUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/System/TableList.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/User/Login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/User/Login.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/User/Register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/User/Register.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/User/RegisterResult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/routes/User/RegisterResult.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/services/BusiApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/services/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/services/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/services/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/utils/Authorized.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/utils/authority.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/utils/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/utils/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/src/utils/utils.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/tests/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subRouter/FootBall.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subRouter/System.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subRouter/product.go" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="fast4ward_dev@47.92.100.148" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="fast4ward_dev@47.92.100.148" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="fast4ward_dev" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>each</find>
+      <find>cancelHandle</find>
+      <find>files</find>
+      <find>creatOK</find>
+      <find>okHandle</find>
+      <find>upSelectedKeys</find>
+      <find>renderForm</find>
+      <find>getAuthority</find>
+      <find>handleSubmit</find>
+      <find>user</find>
+      <find>RenderAuthorized</find>
+      <find>fetchCurrent</find>
+      <find>currentUser</find>
+      <find>stringify</find>
+      <find>renderAuthorize</find>
+      <find>{username: getAuthority()}</find>
+      <find>setAuthority</find>
+      <find>AuthorizedRoute</find>
+      <find>BasicLayout</find>
+      <find>Authorized</find>
+      <find>auth</find>
+      <find>checkPermissionItem</find>
+      <find>onSelect</find>
+      <find>collapsed</find>
+      <find>RouterConfig</find>
+      <find>menuData</find>
+      <find>props</find>
+      <find>getRouterData</find>
+      <find>console</find>
+      <find>routerData</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model/Base.go" />
+        <option value="$PROJECT_DIR$/model/FootBall.go" />
+        <option value="$PROJECT_DIR$/controller/test.go" />
+        <option value="$PROJECT_DIR$/main2.go" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/login.html" />
+        <option value="$PROJECT_DIR$/controller/FootBall.go" />
+        <option value="$PROJECT_DIR$/config/casbinConfig.go" />
+        <option value="$PROJECT_DIR$/controller/Login.go" />
+        <option value="$PROJECT_DIR$/ov/football.go" />
+        <option value="$PROJECT_DIR$/static/src/common/menu.js" />
+        <option value="$PROJECT_DIR$/static/src/routes/Guessing/FootBall.js" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+        <option value="$PROJECT_DIR$/static/dist/index2.html" />
+        <option value="$PROJECT_DIR$/static/dist/index.html" />
+        <option value="$PROJECT_DIR$/static/package.json" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/static/src/BusiCompoents/SysUser.js" />
+        <option value="$PROJECT_DIR$/subRouter/FootBall.go" />
+        <option value="$PROJECT_DIR$/static/.roadhogrc.mock.js" />
+        <option value="$PROJECT_DIR$/model/SysModel.go" />
+        <option value="$PROJECT_DIR$/static/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/static/src/models/footBall.js" />
+        <option value="$PROJECT_DIR$/ov/System.go" />
+        <option value="$PROJECT_DIR$/static/src/routes/List/TableList.js" />
+        <option value="$PROJECT_DIR$/static/src/cusComponents/Form.js" />
+        <option value="$PROJECT_DIR$/static/src/components/StandardFormRow/index.js" />
+        <option value="$PROJECT_DIR$/config/db.go" />
+        <option value="$PROJECT_DIR$/model/Product.go" />
+        <option value="$PROJECT_DIR$/router/router.go" />
+        <option value="$PROJECT_DIR$/static/src/services/BusiApi.js" />
+        <option value="$PROJECT_DIR$/static/src/models/SysModel.js" />
+        <option value="$PROJECT_DIR$/static/src/cusComponents/FormModel/CreateForm.js" />
+        <option value="$PROJECT_DIR$/static/src/routes/System/SysRole.js" />
+        <option value="$PROJECT_DIR$/static/src/routes/System/SysUser.js" />
+        <option value="$PROJECT_DIR$/static/src/cusComponents/FormModel/Model.js" />
+        <option value="$PROJECT_DIR$/subRouter/System.go" />
+        <option value="$PROJECT_DIR$/static/src/services/api.js" />
+        <option value="$PROJECT_DIR$/static/src/services/user.js" />
+        <option value="$PROJECT_DIR$/static/src/models/user.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ffc6352b-d9f6-441b-a334-132288a4752e/console.sql" />
+        <option value="$PROJECT_DIR$/static/src/utils/authority.js" />
+        <option value="$PROJECT_DIR$/static/src/routes/User/Login.js" />
+        <option value="$PROJECT_DIR$/static/src/models/login.js" />
+        <option value="$PROJECT_DIR$/static/src/utils/Authorized.js" />
+        <option value="$PROJECT_DIR$/static/src/components/SiderMenu/SiderMenu.js" />
+        <option value="$PROJECT_DIR$/static/src/components/Authorized/CheckPermissions.js" />
+        <option value="$PROJECT_DIR$/static/src/router.js" />
+        <option value="$PROJECT_DIR$/static/src/common/router.js" />
+        <option value="$PROJECT_DIR$/static/src/layouts/BasicLayout.js" />
+        <option value="$PROJECT_DIR$/controller/System.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/static/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fGin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fGin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/goWork/ant-design-pro-menus" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_interpreter_path" value="D:/work/node/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\go\src\fGin\static\src\routes\System" />
+      <recent name="C:\Users\admin\go\src\fGin\static" />
+      <recent name="C:\Users\admin\go\src\fGin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\go\src\fGin\static\src\cusComponents\FormModel" />
+      <recent name="C:\Users\admin\go\src\fGin\static\dist" />
+      <recent name="C:\Users\admin\go\src\fGin\router" />
+      <recent name="C:\Users\admin\go\src\fGin\config" />
+      <recent name="C:\Users\admin\go\src\fGin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Single File.go run main.go">
+    <configuration default="false" name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="fGin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run main2.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="fGin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main2.go" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="fGin" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="fGin" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="fGin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main2.go" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main2.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b09ed2f-cd3b-4b20-80dd-f47e74e9ec27" name="Default" comment="" />
+      <created>1527654000779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527654000779</updated>
+      <workItem from="1527654002435" duration="15931000" />
+      <workItem from="1527735388516" duration="4698000" />
+      <workItem from="1527757798205" duration="17290000" />
+      <workItem from="1527818056080" duration="21256000" />
+      <workItem from="1528080448902" duration="17468000" />
+      <workItem from="1528103745348" duration="613000" />
+      <workItem from="1528178106685" duration="808000" />
+      <workItem from="1528184216208" duration="4100000" />
+      <workItem from="1528250354805" duration="14615000" />
+      <workItem from="1528274596218" duration="15784000" />
+      <workItem from="1528336881069" duration="16389000" />
+      <workItem from="1528369145169" duration="7488000" />
+      <workItem from="1528422902770" duration="29533000" />
+      <workItem from="1528599545653" duration="23089000" />
+      <workItem from="1528684459427" duration="10960000" />
+      <workItem from="1528772532243" duration="13653000" />
+      <workItem from="1528977803323" duration="43000" />
+      <workItem from="1529647424452" duration="1453000" />
+      <workItem from="1530610109290" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215381000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22135417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36293858" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2850877" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21041666" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37741935" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="fGin" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="fGin" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/model/SysModel.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/services/error.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/node_modules/qs/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ffc6352b-d9f6-441b-a334-132288a4752e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.sys_user_role">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.sys_role">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.sys_role_menu">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/services/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/services/BusiApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/Secured.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.foot_ball_user">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subRouter/System.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/utils/authority.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/demo/AuthorizedArray.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/demo/secured.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/demo/basic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/demo/AuthorizedFunction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="370">
+            <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/CheckPermissions.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/node_modules/antd/lib/menu/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/layouts/PageHeaderLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/layouts/BlankLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/CheckPermissions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="64" column="49" lean-forward="true" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/Authorized.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="62" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/layouts/UserLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.sys_user">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="username='yuping'" />
+            <filter text="username" />
+            <filter text="username='yuping' || username='admin'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.sys_user_info">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/routes/System/SysRole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="112" column="16" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="280" column="10" lean-forward="false" selection-start-line="280" selection-start-column="10" selection-end-line="280" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/node_modules/@types/history/createHashHistory.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="85" lean-forward="false" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/node_modules/dva-loading/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/SiderMenu/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/utils/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="136" column="37" lean-forward="false" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/dist/index.163187d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177762">
+          <caret line="0" column="953516" lean-forward="false" selection-start-line="0" selection-start-column="953516" selection-end-line="0" selection-end-column="953516" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/utils/Authorized.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/models/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/routes/User/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="82" column="66" lean-forward="false" selection-start-line="82" selection-start-column="66" selection-end-line="82" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/Authorized/AuthorizedRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/d7eca6c/ffc6352b-d9f6-441b-a334-132288a4752e/fast4ward_dev.sys_menu">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/common/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2158">
+          <caret line="86" column="23" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.roadhogrc.mock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="126" column="7" lean-forward="true" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/System.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="146" column="39" lean-forward="false" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="39" />
+          <folding>
+            <marker date="1528690965666" expanded="true" signature="2590:2694" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/Login.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/FootBall.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/layouts/BasicLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="208" column="75" lean-forward="false" selection-start-line="208" selection-start-column="75" selection-end-line="208" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/components/SiderMenu/SiderMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="55" column="56" lean-forward="false" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fGin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>GOPATH &lt;fGin&gt;</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
